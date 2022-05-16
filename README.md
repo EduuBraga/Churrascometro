@@ -7,3 +7,5 @@ Neste projeto estou utilizando JS para definir o tanto de carne e bebidas que vo
 * a cerveja vale 1200 ml por pessoa, mas se passar de 6 horas vale 2000ml.
 * o refrigerente/agua 1000ml por pessoa, mas se passar de 6 horas vale 1500ml.
 * Criança valem por metade de um adulto, não contando a cerveja.
+
+Link para meu linkedin: https://www.linkedin.com/in/eduardo-braga-aa0aa922b/
