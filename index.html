@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+    <title>Churrascômetro</title>
+</head>
+
+<body>
+    <main>
+
+        <!-- Conteiner com Descrição e Imagem -->
+        <section class="conteinerDescritivo">
+            <h1 class="descricao">Calcule a quantidade de carne e bebida que você vai precisar!</h1>
+            <img class="img" src="images/pessoa1.jpg" alt="Pessoa comendo churrasco">
+        </section>
+
+        <!-- Conteiner com formulário e logo -->
+        <section class="conteinerPrincipal ">
+
+            <img class="logo" src="images/logo.png" alt="Logo-Churrascometro">
+
+            <section class="input">
+                <p">Quantidade de adultos</p>
+                    <input class="inputItens" id="adultos" name="adultos" type="number" placeholder="Adultos">
+            </section>
+            
+            <section class="input">
+                <p>Quantidade de crianças</p>
+                <input class="inputItens" id="criancas" name="criancas" type="number" placeholder="Crianças">
+            </section>
+
+            <section class="input">
+                <p>Duração do evento</p>
+                <input class="inputItens" id="duracao" name="duracao" type="number" placeholder="Duração (h)">
+            </section>
+
+            <button onclick="calc()">Calcular</button>
+
+            <!-- Sessão com resultado do formulário -->
+            <section id="resultado">
+            </section>
+
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
