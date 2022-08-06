@@ -27,8 +27,6 @@ function calc() {
     let qTotalCerveja = cerveja * adultos
     let qTotalBebidas = bebida * adultos + (bebida / 2 * criancas)
 
-    // colocamos o "+" na frente do = para dizer que está recebendo mais uma incrementação, e não uma modificação.
-
     // incrementação
     resultado.innerHTML = "<h1>Você vai precisar de:"
 
