@@ -1,13 +1,25 @@
 # Churrascometro
-Projeto desenvolvido com base no Curso do ProgBR, Onde Utilizei HTML, CSS e JavaScript
 
-Neste projeto estou utilizando JS para definir o tanto de carne, cerveja e bebidas que você vai precisar para o seu evento, onde:
+<p align="center">
+  🚧 Churrascometro | Concluído 🚀 🚧
+</p>
 
-* a carne por pessoa vale 400gr, porem de passar de 6hr de duração vai valer 650gr.
-* a cerveja vale 1000ml por pessoa, mas se passar de 6hr de duração  vale 1500ml.
-* o refrigerante/água vale 1200ml por pessoa, mas se passar de 6hr vale 2000ml.
-* Criança valem por metade de um adulto, não considerando a cerveja.
+## 💻 Sobre o Projeto
+<p>
+  A aplicação trata-se de uma página web para calcular quantas bebidas e comidas você vai precisar para o seu evento de churrasco.
+</p>
 
-Não dê bebida alcoólica para crianças!
+## ⚙ Funcionalides
+- Escolha de quantas pessoas e crianças vão para o evento
+- Escolha de qunatas horas o evento vai durar
+- Calcular a quantidade de bebidas e comidas que vai precisar para o evento
 
-Link para meu linkedin: https://www.linkedin.com/in/eduardo-braga-aa0aa922b/
+## 🎨 View
+![churrascometro](https://user-images.githubusercontent.com/99041150/194784559-9fab5a66-d18a-4490-aecb-3bf1253b863a.gif)
+
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Javascript
+- CSS3
+- HTML5
